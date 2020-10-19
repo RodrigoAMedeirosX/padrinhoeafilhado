@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://avatars2.githubusercontent.com/u/53230489?s=400&u=093cabb9ee2abaf7475527c83b3077a940a3ed83&v=4",
+      "name": "Miranda",
+      "email": "miranda@softcomtecnologia.com.br",
+      "birth": 946684800000,
+      "gender": "M",
+      "blood": "A1",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61427558?s=400&u=48712b9e9b4801a6d9176fd780400f2009b4fd57&v=4",
+      "name": "Moises",
+      "email": "moises@softcomtecnologia.com.br",
+      "birth": 946684800000,
+      "gender": "M",
+      "blood": "A1"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61427558?s=400&u=48712b9e9b4801a6d9176fd780400f2009b4fd57&v=4",
+      "name": "Gabriel",
+      "email": "gabriel@softcomtecnologia.com.br",
+      "birth": 946684800000,
+      "gender": "M",
+      "blood": "A1"
+    },
+    {
+      "id": 5,
+      "avatar_url": "http://google.com",
+      "name": "Patrick",
+      "email": "patrick@softcomtecnologia.com.br",
+      "birth": 946684800000,
+      "gender": "M",
+      "blood": "A1"
+    },
+    {
+      "id": 6,
+      "avatar_url": "http://google.com",
+      "name": "Marilia",
+      "email": "marilia@softcomtecnologia.com.br",
+      "birth": 946684800000,
+      "gender": "F",
+      "blood": "A1"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 3,
+      "name": "Rodrigo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/67204264?s=460&u=350b27c6be1b27add0e15ebfc42ada65308c91c7&v=4",
+      "birth": 476668800000,
+      "gender": "M",
+      "services": "N1,N2,N3, PARAMETRIZACAO, SPED",
+      "created_at": 1602948622290
+    }
+  ]
+}
